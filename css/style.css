@@ -12,7 +12,7 @@ h1 {
 }
 
 p {
-	padding: 15px 5px 0px 5px;
+	padding: 20px 10px 10px 10px;
 	font-family: Georgia sans-serif;
 	font-size: 18px;
 	position: relative;
@@ -20,10 +20,10 @@ p {
 
 .section { 
 	background-color: rgb(150, 150, 150);
-  border: 2px solid black;
+  border: 1px solid black;
   margin-top: 15px; 
   margin-right: 15px; 
-  padding: 3px;
+  padding: 10px;
   text-align: justify;
   position: relative;
  }
